@@ -15,7 +15,7 @@ const LoginPage = () => {
         <div className="p-10 flex flex-col gap-8 md:w-1/2">
           <h1 className="font-bold text-xl xl:text-3xl">Bienvenue !</h1>
           <p>
-            Connectez-vous à votre compte ou créez-en un nouveau à l'aide des
+            Connectez-vous à votre compte ou créez-en un nouveau avec les
             boutons sociaux.
           </p>
           <button className="flex gap-4 p-4 ring-1 ring-orange-100 rounded-md">
